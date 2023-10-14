@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "qwik-mui-examples",
+  "short_name": "qwik-mui",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Mui examples for qwik."
+}
